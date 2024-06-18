@@ -8,10 +8,8 @@
 </head>
 
 <body>
-    <h1>Feltöltés</h1>
-    <label for="video">Kérem a vidid cigo</label>
-    <input type="file" id="video">
-    <button onclick="window.location.href = 'https://anyudat.github.io/qr/video.php';"></button>
+    <p>anyad</p>
+    <script src="script.js"></script>
 </body>
 
 </html>
